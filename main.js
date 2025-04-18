@@ -325,7 +325,7 @@ class VwWeconnect extends utils.Adapter {
           common: {
             name: "Refresh All States",
             type: "boolean",
-            role: "boolean",
+            role: "button",
             write: true,
           },
           native: {},
